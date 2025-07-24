@@ -36,7 +36,7 @@ const defaultSettings: AppSettings = {
   game: {
     enableApiValidation: true,
     cacheValidationResults: true,
-    defaultWordLength: 6,
+    defaultWordLength: 5,
     maxGuesses: {
       5: 6,
       6: 6,
